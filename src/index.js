@@ -82,6 +82,7 @@ class App extends Component {
         <div>
           <div className="container">
             <div className="row">
+<Route path="/ada.txt" component="ads.txt" exact />
               <Route path="/" component={List} exact />
               <Route path="/article" component={List} exact />
               <Route path="/article/:name" component={SinglePage} />
