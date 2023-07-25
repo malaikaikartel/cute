@@ -12,7 +12,7 @@ const Nav = () => (
         </p>
         <a
           className="nav-link btn btn-dark text-white"
-          href="https://github.com/mesinkasir/cuteblogreact"
+          href="https://github.com/malaikaikartel/cute/"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
